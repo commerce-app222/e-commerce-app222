@@ -11,3 +11,19 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.produk-harga {
+    margin-top: 15px;
+}
+
+.About, .Contact, .Keranjang {
+  min-height: 650px;
+}
+
+.img-keranjang {
+  margin-left: -20px;
+}
+
+.FooterComponent {
+  margin-left: 10px;
+}
